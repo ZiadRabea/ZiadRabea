@@ -16,9 +16,9 @@ Explore some of my notable projects:
 
 - [World Language](https://github.com/ziadrabea/World-Programming): The GitHub repository for the "World" programming language, a groundbreaking project aiming to revolutionize how we code.
 
-- ![Ziscord](https://mostaql.hsoubcdn.com/uploads/portfolios/1562404/63042bb1f08ef/bandicam-2022-07-08-11-13-41-025.jpg) : The codebase for the social networking website I developed at a young age.
+- ![Ziscord](https://mostaql.hsoubcdn.com/uploads/portfolios/1562404/63042bb1f08ef/bandicam-2022-07-08-11-13-41-025.jpg) : The social networking website I developed at a young age.
 
-- Temporarely unavialiable due to merging it with the new version of world language: A repository for the AI-powered voice-controlled programmer I created for coding during recovery.
+- [Demo](https://www.youtube.com/watch?v=yH-4AWxxRSo): A demo for the AI-powered voice-controlled programmer I created for coding during recovery.
 
 ## Get in Touch
 
