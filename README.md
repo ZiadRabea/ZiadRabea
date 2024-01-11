@@ -1,3 +1,4 @@
+[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 # Hello, I'm Ziad Rabea 👋
 
 I'm a passionate programmer with a lifelong love for science and technology. I've achieved several milestones in my journey, from writing scientific papers at a young age to developing innovative projects. Here's a brief overview of my journey so far:
