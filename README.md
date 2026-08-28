@@ -1,32 +1,41 @@
-# Hello, I'm Ziad Rabea 👋
+# Hi there, I'm Ziad Rabea 👋 | Systems Innovation & Language Architect
 
-I'm a passionate programmer with a lifelong love for science and technology. I've achieved several milestones in my journey, from writing scientific papers at a young age to developing innovative projects. Here's a brief overview of my journey so far:
+> **"What we build outlives our hands."**
 
-- 📝 **Early Passion for Science**: I discovered my passion for science and tech from a very early age and wrote my first scientific paper at just 12 years old.
+I am a self-taught software engineer and systems architect driven by a passion for breaking boundaries in software infrastructure, language accessibility, and computing. From writing compiler architectures to deploying proprietary social networking platforms, I design systems that scale and endure.
 
-- 💻 **Social Networking Project**: At the age of 14, I embarked on an ambitious project to build a social networking website. This endeavor led to the creation of over 70,000 lines of code and provided valuable insights into the world of web development.
+---
 
-- 🤖 **AI Voice-Controlled Programmer**: During a period of personal challenge, I developed an AI voice-controlled programmer. This project not only assisted me during my recovery but also aimed to help fellow coders facing similar circumstances.
+## ⚡ Core Technical Milestones
 
-- 🌐 **"World" Language**: My latest creation is the "World" programming language, a multilingual programming language designed to eliminate language barriers and make coding accessible to everyone.
+- 🌐 **WorldLang Architect:** Creator of "WorldLang," an innovative multilingual programming language built on a custom interpreter architecture. Designed around **Linguistic Barriers Free Coding Technology (LBFCT)**, it enables developers to write production code natively across 30+ global languages.
+- 💬 **Proprietary Platform Founder:** Currently architecting and operating an active, production-grade social networking platform focused on productivity, managing the closed-source cloud infrastructure and application logic.
+- 📊 **High-Volume Monolithic Engineering:** At age 14, engineered a comprehensive, custom social networking architecture writing over **70,000+ lines of raw code**, establishing deep foundational expertise in web infrastructure and scalability.
+- 📚 **Published Co-Author & Educator:** Co-authored and commercially published *"World language programmer's full guide"* (Sajed Publishing, Algeria) to build and sustain localized non-English tech learning communities.
 
-## Projects
+---
 
-Explore some of my notable projects:
+## 🛠️ Key Featured Work
 
-- [World Language](https://github.com/ziadrabea/World-Programming): The GitHub repository for the "World" programming language, a groundbreaking project aiming to revolutionize how we code.
+### 🚀 [WorldLang (Multilingual Programming Language)](https://github.com)
+The official repository for the WorldLang compiler, runtime, and ecosystem. The technology features dynamic keyword importation and has driven third-party tool adoption, including the community-built `world-formatter` and official VS Code integration.
 
-- ![Ziscord](https://mostaql.hsoubcdn.com/uploads/portfolios/1562404/63042bb1f08ef/bandicam-2022-07-08-11-13-41-025.jpg) : The social networking website I developed at a young age.
+---
 
-- [Demo](https://www.youtube.com/watch?v=yH-4AWxxRSo): A demo for the AI-powered voice-controlled programmer I created for coding during recovery.
+## 📈 Tech Ecosystem & Reach
+* **Commercial Viability:** Successfully integrated payment routing via Kashier gateway to process direct retail sales for the WorldLang educational textbook.
+* **Academic Baseline:** Registered and presented core engineering frameworks under the LBFCT model at international forums like **Regeneron ISEF**.
 
-## Get in Touch
+---
 
-I'm always excited to connect with fellow programmers, developers, and tech enthusiasts. Feel free to reach out to me via:
+## 📩 Connect & Collaborate
 
-- [Email](mailto:zidr2005@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/ziadrabea/)
-- [YouTube](https://www.youtube.com/@ZiadRabea-ie3gx)
+I am always keen to collaborate with language developers, systems engineers, and open-source advocates.
 
-Let's collaborate and take the world TO THE NEXT LEVEL ✨🚀
+- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+- **Email:** [zidr2005@gmail.com](mailto:zidr2005@gmail.com)
+- **Email:** [ziadrabeay1@gmail.com](mailto:ziadrabeay1@gmail.com)
+- **YouTube Channel: (Arabic)** [@DaisyRobotics](https://youtube.com)
+- **YouTube Channel: (English)** [@DoctorDaisy1](https://youtube.com)
 
+*Let's build technology that takes global accessibility TO THE NEXT LEVEL ✨🚀*
