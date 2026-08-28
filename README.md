@@ -32,10 +32,10 @@ The official repository for the WorldLang compiler, runtime, and ecosystem. The 
 
 I am always keen to collaborate with language developers, systems engineers, and open-source advocates.
 
-- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+- **LinkedIn:** [://linkedin.com]([https://www.://linkedin.com/](https://www.linkedin.com/in/ziadrabea/))
 - **Email:** [zidr2005@gmail.com](mailto:zidr2005@gmail.com)
 - **Email:** [ziadrabeay1@gmail.com](mailto:ziadrabeay1@gmail.com)
-- **YouTube Channel: (Arabic)** [@DaisyRobotics](https://youtube.com)
-- **YouTube Channel: (English)** [@DoctorDaisy1](https://youtube.com)
+- **YouTube Channel: (Arabic)** [@DaisyRobotics](https://youtube.com/@DaisyRobotics)
+- **YouTube Channel: (English)** [@DoctorDaisy1](https://youtube.com/@DoctorDaisy1)
 
 *Let's build technology that takes global accessibility TO THE NEXT LEVEL ✨🚀*
